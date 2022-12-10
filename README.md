@@ -19,7 +19,7 @@ and uses two Spin components:
 
 Create an `auth.json` file using the PlanetScale credentials based on the template in `auth-template.json`.
 
-Finally, nstall the dependencies for both the front-end and back-end, then run `spin build` and `spin up`:
+Finally, install the dependencies for both the front-end and back-end, then run `spin build` and `spin up`:
 
 ```bash
 $ npm install && cd api && npm install
